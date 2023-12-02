@@ -2,7 +2,7 @@
 # Passboard Coding Challenge
 Take home assignment for Backend candidates  
 
-# ⚡️ Requirements
+# ⚡️ Requirementsssss
 We would like you to build a simplified version of our Passboard platform. Passboard is a platform that allows users to explor public events and purachse tickets to attend any of these events.
 
 The project is meant to be a simple application that you can build in a few hours.
