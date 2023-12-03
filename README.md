@@ -51,7 +51,7 @@ Your submission will be evaluated based on:
 - Documentation
 
 ## How To Submit Your Work ⚡
-To submit your solution, **clone** this repository then push it to your own GitHub account. Once completed, share the link to your Github repository with us.
+To submit your solution, **fork** this repository then push it to your own GitHub account. Once completed, share the link to your Github repository with us.
 
 We'll evaluate your project after submission and may invite you for a remote live interview.
 
